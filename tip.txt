@@ -1,6 +1,10 @@
 1. 용어
-  void element
-    : 내용이 없는 태그. 그러니까 중간에 샌드위치 시킬게 아무것도 없어서 시작 태그만 쓰고 끝 태그는 생략한다
+	Hypertext
+		: 링크걸린 텍스트
+	Markup Language
+		: 뭘 표현하기 위한 언어
+ 	void element
+		: 내용이 없는 태그. 그러니까 중간에 샌드위치 시킬게 아무것도 없어서 시작 태그만 쓰고 끝 태그는 생략한다
 
 2. 태그 뭐있는지 알려주는 사이트
   http://www.martinrinehart.com/frontend-engineering/engineers/html/html-tag-history.html
