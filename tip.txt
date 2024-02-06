@@ -1,0 +1,8 @@
+1. 용어
+  void element
+    : 내용이 없는 태그. 그러니까 중간에 샌드위치 시킬게 아무것도 없어서 시작 태그만 쓰고 끝 태그는 생략한다
+
+2. 태그 뭐있는지 알려주는 사이트
+  http://www.martinrinehart.com/frontend-engineering/engineers/html/html-tag-history.html
+			: deprecated >> 없어질지 모르니까 안쓰는거 추천한단 뜻
+			: obsolete >> 퇴출됬으니 절대 쓰지 말란 뜻
