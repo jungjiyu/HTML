@@ -7,6 +7,10 @@
   불릿 bullet
     : li 태그 사용시 앞에 붙는 동글뱅이 같은거
 
+  row, column
+    : row 는 low 하다. 그러니까 키가 작다. 그러니까 행이다
+    : column 은 기둥이다. 그러니까 열이다
+
 
 2. 이클립스의 경우 ctrl + shift + o 함 패키지 자동 import 된다
 
