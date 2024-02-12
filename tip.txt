@@ -9,3 +9,9 @@
 
 3. web.xml 안보이면 ) 프로젝트 오른쪽 마우스 >> generate deployment.. 클릭
 
+4. MDN 사이트
+  : Mozila Developer Network
+  : 모질라 재단 등 웹 개발을 위한 문서 저장소
+  : HTML , CSS, JAVA Script 기초 지식이나 web API 대해 폭 넓게 다룸
+    : HTML5 이후 급격히 변한 웹 표준을 가장 잘 반영하는 문서
+
