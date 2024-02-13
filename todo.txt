@@ -1,7 +1,3 @@
 1. 요소노드란 << 북마크(DOM 참고)
 2. id 와 class 의 사용방법
-3. css, javascript 다 하고 나서 확인해야할 전역 속성들
-  id
-  class
-  contenteditable 의 사용법 << css 배우고 나서 봐야될 듯
-  data-
+3. css, javascript 다 하고 나서 확인해야할 전역 속성 마저 정리하기
