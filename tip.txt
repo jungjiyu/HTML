@@ -25,3 +25,10 @@
   : HTML , CSS, JAVA Script 기초 지식이나 web API 대해 폭 넓게 다룸
     : HTML5 이후 급격히 변한 웹 표준을 가장 잘 반영하는 문서
 
+5. 여러 태그에 style 한번에 적용 시키기
+  : body 태그 처럼 큰 범위의 태그를 지정하면 된다
+<style>
+	body{
+	text-align:center;
+	}
+</style>
