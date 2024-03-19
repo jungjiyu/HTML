@@ -45,3 +45,8 @@
 		: ex) <p>안녕하세요</p>
 
 9. margin , padding >> 여백의 정도
+
+10. sementic 태그와 non sementic 태그 (<div> <span>)의 사용
+	스타일 지정이나 스크립팅 목적으로 필요한 경우를 제외하고는 non-sementic tag 가 아닌 sementic tag 를 사용하도록 하자.
+
+
