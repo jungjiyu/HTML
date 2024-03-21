@@ -159,3 +159,21 @@ CSS Cascading Style Sheet
 
 
 
+
+------------------------------------------
+
+참고로 p 태그나 그런거 관련한 줄바꿈 간격 tip
+	: line-height 는 글자줄 간의 간격을 조정할때만 쓰는거고 (단순 테이블 && 테이블 간의 간격에 div 나 p 태그에 line-height 로 값 조정한다고 해서 딱히 반영 안됨), 그냥 단순 element 끼리 간격을 조정시켜주는건 margin 이다
+
+테이블 css tip
+	: border: 몇px solid 색
+		: 테두리 설정
+	: padding 같은 경우 cell 내부 간격 조정
+	: border-width:2px 2px 3.5px 2px;  와 같이 테두리 두께를 각 변마다 설정 가능
+		: 위 - 오 - 아래 - 왼 순
+	:border-collapse: collapse;
+		: 테이블 셀 끼리 굳이 간격 띄우지ㅣ 않고 한줄로 표현
+	: padding : 셀 내부 데이터 와 셀 테두리 사이의 간격 조절
+	
+
+
